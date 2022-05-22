@@ -25,6 +25,6 @@ This project is created by the following developers:
 Install the **TODO List** with git:
 
 ```bash
-  git clone git@github.com:Coder-Ayan/TODO-List.git
-  cd TODO-List
+  git clone git@github.com:Coder-Ayan/todo-list.git
+  cd todo-list
 ```
