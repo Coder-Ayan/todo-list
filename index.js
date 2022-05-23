@@ -27,8 +27,8 @@ function showTODOs() {
         let TODO_html = `
         <tr>
             <th scope="row">${index + 1}</th>
-            <td>${title}</td>
-            <td>${description}</td>
+            <td class="text-break">${title}</td>
+            <td class="text-break">${description}</td>
             <td>
                 <button type="button" class="btn btn-danger btn-sm py-1 px-2" onclick="deleteTODO(${index})"><i
                         class="bi bi-trash3"></i></button>
